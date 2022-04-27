@@ -1,5 +1,5 @@
 import unittest
-from assertions import calculadora.teste
+# from assertions import calculadora.teste
 
 
 class TestCalculadora(unittest.TestCase):

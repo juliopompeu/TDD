@@ -1,9 +1,4 @@
-def soma(x, y):
-    assert isinstance(x, (int, float)), 'x precisa ser int ou float'
-    return x + y
-
-
-def teste(x, y):
+def somas(x, y):
     """ Soma x e Y
 
     >>> soma(10,20)
